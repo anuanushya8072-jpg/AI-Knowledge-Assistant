@@ -50,5 +50,10 @@ Future Improvements
 - Deploy as a hosted web application
 
 Author
+## Live Demo
 
+Try the AI Knowledge Assistant here:
+
+https://e0618b23e7636776a3.gradio.live
 AIML Student | AI & Machine Learning Projects
+
